@@ -1,1 +1,1 @@
-# ubiquitous-barnacle
+This is a monte carlo simulation pulling in current price data on both stocks, bonds, and crypto currencies and measuring if someone has saved enough for an emergency fund. From there forward looking monte carlo simulations were run to verify with 95% confidence intervals if the total value of investments would be adequate over 30 years.
